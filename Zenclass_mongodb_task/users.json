@@ -1,0 +1,43 @@
+[
+  {
+    "userid":1,
+    "user_name":"Ameer",
+    "user_email":"ameer@gmail.com",
+    "mentor_id":1
+  },
+  {
+    "userid":2,
+    "user_name":"Vidhya",
+    "user_email":"vidhya@gmail.com",
+    "mentor_id":2
+  },
+  {
+    "userid":3,
+    "user_name":"Bala",
+    "user_email":"bala@gmail.com",
+    "mentor_id":3
+  },
+  {
+    "userid":4,
+    "user_name":"Suganya",
+    "user_email":"suganya@gmail.com",
+    "mentor_id":4
+  },
+  {
+    "userid":5,
+    "user_name":"Zahir",
+    "user_email":"zahir@gmail.com",
+    "mentor_id":5
+  }
+]
+
+
+
+
+
+
+
+
+
+
+    

@@ -1,0 +1,42 @@
+[
+    {
+        "taskid":1,
+        "topicsid":1,
+        "userid":1,
+        "task":"html task",
+        "due_date":"4-oct-2020",
+        "submitted":true
+    },
+    {
+        "taskid":2,
+        "topicsid":2,
+        "userid":2,
+        "task":"css task",
+        "due_date":"10-oct-2020",
+        "submitted":true
+    },
+    {
+        "taskid":3,
+        "topicsid":3,
+        "userid":3,
+        "task":"javascript task",
+        "due_date":"15-oct-2020",
+        "submitted":true
+    },
+    {
+        "taskid":4,
+        "topicsid":4,
+        "userid":4,
+        "task":"React task",
+        "due_date":"20-oct-2020",
+        "submitted":false
+    },
+    {
+        "taskid":5,
+        "topicsid":5,
+        "userid":5,
+        "task":"NodeJS task",
+        "due_date":"25-oct-2020",
+        "submitted":false
+    }
+]

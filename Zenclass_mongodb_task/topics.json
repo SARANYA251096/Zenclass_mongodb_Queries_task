@@ -1,0 +1,32 @@
+[
+    {
+        "topicid":1,
+        "topic":"html",
+        "topic_date":"4-oct-2020",
+        "taught_month":"October"
+    },
+    {
+        "topicid":2,
+        "topic":"css",
+        "topic_date":"10-oct-2020",
+        "taught_month":"October"
+    },
+    {
+        "topicid":3,
+        "topic":"Javascript",
+        "topic_date":"15-oct-2020",
+        "taught_month":"October"
+    },
+    {
+        "topicid":4,
+        "topic":"React",
+        "topic_date":"20-oct-2020",
+        "taught_month":"October"
+    },
+    {
+        "topicid":5,
+        "topic":"NodeJS",
+        "topic_date":"25-oct-2020",
+        "taught_month":"October"
+    }
+]
